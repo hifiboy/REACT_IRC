@@ -1,0 +1,8 @@
+.App {
+  text-align: center;
+}
+body{
+  background-image:url('./components/reinvently_insights_3.0.gif');  
+  background-size: cover; 
+  background-repeat: no-repeat; 
+}
